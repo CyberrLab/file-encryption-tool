@@ -1,0 +1,4 @@
+secret.key
+*.encrypted
+*.decrypted
+sample.txt
